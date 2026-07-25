@@ -1,2 +1,4 @@
 first line in b.txt
 Test for c branch
+
+MOD
