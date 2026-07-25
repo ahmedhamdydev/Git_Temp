@@ -1,1 +1,2 @@
 First line in d.txt
+Test for GUI
